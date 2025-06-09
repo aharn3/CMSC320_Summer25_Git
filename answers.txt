@@ -1,0 +1,7 @@
+Q1: Why might we consider using Git?
+
+Answer: It is good for working with groups because it can handle merge requests, allow users to work on multiple branches, log actions, and more.
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science could be applied in any field, one of them being business. Data science can be used in business to look at rapidly growing areas, areas with low business competition, and profitable businesses in certain areas, and provide insight for a business owner that could help them decide where and when to open a business. Using data science, the business owner could also predict where the next businesses would grow, and plan ahead for the future.
